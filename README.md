@@ -60,7 +60,7 @@ Working within a multidisciplinary engineering team has strengthened my practica
 
 ------------------------Additional Content------------------------
 
-Additional project photos and behind-the-scenes updates can be found on my Instagram: (https://www.instagram.com/serko_hellas?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==).
+Additional project photos and behind-the-scenes updates can be found on my Instagram: [serko_hellas](https://www.instagram.com/serko_hellas?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==).
 
 ------------------------Contact------------------------
 
