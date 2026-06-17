@@ -41,6 +41,22 @@ My experience includes:
 * Compliance with electrical safety practices
 
 This practical experience complements my engineering studies and automation projects by providing hands-on exposure to real-world electrical systems.
+## Engineering Activities
+
+------------------------Robotics Club – University of Patras------------------------
+
+Member of the Robotics Club at the University of Patras and part of the Mechatronics Team.
+[https://robotics-club.upatras.gr/](https://robotics-club.upatras.gr/)
+Activities include:
+
+* Mechanical and electrical system integration
+* Robotics and automation projects
+* Sensor and actuator implementation
+* CAD design and prototyping
+* Team-based engineering project development
+* Problem solving and system testing
+
+Working within a multidisciplinary engineering team has strengthened my practical skills in mechatronics, automation, design, and technical collaboration.
 
 ------------------------Additional Content------------------------
 
