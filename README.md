@@ -1,8 +1,8 @@
 # Electrical Engineering Portfolio
 
-Hello, my name is Kostas.
+Hello, my name is Konstantinos Seresiotis.
 
-I am an Electrical Engineering student with practical experience in industrial automation, electrical design, CAD modeling, and PCB design.
+I am an ECE student at the Univercity of Patras with practical experience in industrial automation, electrical design, CAD modeling, and PCB design.
 
 ------------------------Skills------------------------
 
