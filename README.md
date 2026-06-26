@@ -45,7 +45,7 @@ This practical experience complements my engineering studies and automation proj
 
 ------------------------Robotics Club – University of Patras------------------------
 
-Member of the Robotics Club at the University of Patras and part of the Mechatronics Team.
+Member of the Robotics Club at the University of Patras.
 [https://robotics-club.upatras.gr/](https://robotics-club.upatras.gr/)
 Activities include:
 
